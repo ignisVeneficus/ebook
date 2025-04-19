@@ -4,11 +4,12 @@ import (
 	"archive/zip"
 	"bytes"
 	"fmt"
-	"ignis/library/ebook/eBookData"
 	"io"
 	"maps"
 	"slices"
 	"strings"
+
+	"github.com/ignisVeneficus/ebook/eBookData"
 
 	"github.com/antchfx/xmlquery"
 	"github.com/antchfx/xpath"

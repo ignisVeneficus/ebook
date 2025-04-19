@@ -2,9 +2,10 @@ package mobipocket
 
 import (
 	"encoding/binary"
-	"ignis/library/ebook/eBookData"
-	"ignis/library/ebook/mobipocket/palmdb"
 	"io"
+
+	"github.com/ignisVeneficus/ebook/eBookData"
+	"github.com/ignisVeneficus/ebook/palmdb"
 
 	"github.com/rs/zerolog/log"
 	"golang.org/x/text/encoding/charmap"
