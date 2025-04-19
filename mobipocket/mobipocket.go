@@ -5,7 +5,7 @@ import (
 	"io"
 
 	"github.com/ignisVeneficus/ebook/eBookData"
-	"github.com/ignisVeneficus/ebook/palmdb"
+	"github.com/ignisVeneficus/ebook/mobipocket/palmdb"
 
 	"github.com/rs/zerolog/log"
 	"golang.org/x/text/encoding/charmap"
