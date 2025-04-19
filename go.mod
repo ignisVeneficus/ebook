@@ -1,4 +1,4 @@
-module ignis/library/ebook
+module github.com/ignisVeneficus/ebook
 
 go 1.23.4
 
